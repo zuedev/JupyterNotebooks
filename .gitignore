@@ -161,3 +161,5 @@ untitled*.txt
 
 # temporary files, useful for testing
 tmp
+
+/.jupyter/
